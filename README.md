@@ -1,16 +1,34 @@
-# rest_api
+# 🌍 Flutter - Rest API Countries
 
-A new Flutter project.
+Bienvenue sur ce projet Flutter qui consomme une API REST pour afficher la liste des pays du monde, avec leurs capitales et leurs drapeaux.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Aperçu de l'application
 
-A few resources to get you started if this is your first Flutter project:
+### 🌐 Liste des pays
+![Liste des pays](assets/screenshots/cap1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### ❌ Erreur de connexion
+![Erreur connexion](assets/screenshots/cap2.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ⚙️ Technologies utilisées
+
+- Flutter (Dart)
+- API REST : [restcountries.com](https://restcountries.com/)
+- HTTP (package `http`)
+- Gestion réseau : `connectivity_plus`
+- Architecture asynchrone avec `FutureBuilder`
+
+---
+
+## 🧪 Fonctionnalités
+
+- Récupération des données depuis une API publique
+- Affichage du nom du pays, de sa capitale et du drapeau
+- Détection de la connexion internet
+- Gestion des erreurs et rechargement manuel
+
+---
