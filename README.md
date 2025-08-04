@@ -7,10 +7,10 @@ Bienvenue sur ce projet Flutter qui consomme une API REST pour afficher la liste
 ## 📸 Aperçu de l'application
 
 ### 🌐 Liste des pays
-![Liste des pays](assets/screenshots/cap1.png)
+![Liste des pays](screenshots/cap1.png)
 
 ### ❌ Erreur de connexion
-![Erreur connexion](assets/screenshots/cap2.png)
+![Erreur connexion](screenshots/cap2.png)
 
 ---
 
